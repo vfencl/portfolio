@@ -1,0 +1,70 @@
+body{
+    background-color: #50285C;
+}
+h1{
+    color: #E8A6F5;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+}
+a{
+    background-color: #A070A9;
+    padding: 10px;
+    text-decoration: none;
+}
+a:link{
+    color:black;
+    font-family: "Lilita One", sans-serif;
+}
+a:visited{
+    color:white;
+}
+h3{
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#about{
+    background-color: white;
+    border: 10px solid #A070A9;
+    padding: 10px;
+}
+#work{
+    background-color: white;
+    border: 10px solid #A070A9;
+    padding: 10px;
+}
+#education{
+    background-color: white;
+    border: 10px solid #A070A9;
+    padding: 10px;
+}
+#gallery{
+    background-color: white;
+    border: 10px solid #A070A9;
+    padding: 10px;
+}
+#contact{
+    background-color: white;
+    border: 10px solid #A070A9;
+    padding: 10px;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+.imggal{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo{
+    width: 75px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
